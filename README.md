@@ -1,67 +1,48 @@
-<<<<<<< HEAD
+# 📌   PROJEXIA [Project Management System]  
 
-## Project
+🚀 A modern, collaborative **academic project management platform** where **teachers and students** can work together on semester projects.  
+Built with **Next.js, Node.js (Express), PostgreSQL, and Sequelize**, it provides a seamless project workflow — from **team creation → task tracking → file sharing → evaluation**.  
 
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## ✨ Features  
 
-**Use your preferred IDE**
+✅ **Multi-role Authentication**  
+- 🎓 Students login with **College ID**  
+- 👩‍🏫 Teachers login with **Employee ID**  
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+✅ **Student Dashboard**  
+- Create / join **one project group at a time**  
+- Upload project files for teacher review  
+- Track **project progress & deadlines**  
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+✅ **Teacher Dashboard**  
+- Assist students with projects  
+- Assign tasks & evaluate submissions  
+- Provide **feedback & grades**  
 
-Follow these steps:
+✅ **Collaboration Tools**  
+- Real-time project updates  
+- Notifications & reminders  
+- Document sharing  
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+✅ **UI/UX Goodies**  
+- 🌓 Light & Dark Mode support  
+- Simple, connected flow for users  
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 🛠️ Tech Stack  
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+| Layer        | Technology |
+|--------------|------------|
+| **Frontend** | Next.js, Tailwind CSS |
+| **Backend**  | Node.js (Express) |
+| **Database** | PostgreSQL + Sequelize ORM |
+| **Auth**     | JWT (JSON Web Tokens) |
+| **Tools**    | dotenv, nodemon, pgAdmin |
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+  
 
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: 
-=======
-# projexia
-project management system
->>>>>>> a56997d84a39feab3ac80561d4b6692d662a5215
